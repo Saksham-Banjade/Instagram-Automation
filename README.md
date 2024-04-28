@@ -1,4 +1,5 @@
-Instagram Automation Tool with Selenium
+Instagram Automation Tool with Selenium:
+
 This is an open-source Instagram automation tool built with Selenium, enabling developers to automate interactions with Instagram through web scraping and browser automation.
 
 How It Works:
